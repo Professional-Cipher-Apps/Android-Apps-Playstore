@@ -1,50 +1,12 @@
 {
-  "apps": [
-    {
-      "name": "PUBG Stickers",
-      "more_apps": [
-        {
-          "app_name": "PubG Stickers",
-          "app_desc": "Download WA Stickers for Free",
-          "app_link": "https://play.google.com/store/apps/details?id=com.professionalcipher.stickers",
-          "app_image": "https://raw.githubusercontent.com/Professional-Cipher-Apps/Android-Apps-Playstore/main/pubg-sticker-app-logo.jpg",
-          "app_rating": 4
-        },
-        {
-          "app_name": "PubG Stickers",
-          "app_desc": "Download WA Stickers for Free",
-          "app_link": "https://play.google.com/store/apps/details?id=com.professionalcipher.stickers",
-          "app_image": "https://raw.githubusercontent.com/Professional-Cipher-Apps/Android-Apps-Playstore/main/pubg-sticker-app-logo.jpg",
-          "app_rating": 4
-        },
-        {
-          "app_name": "PubG Stickers",
-          "app_desc": "Download WA Stickers for Free",
-          "app_link": "https://play.google.com/store/apps/details?id=com.professionalcipher.stickers",
-          "app_image": "https://raw.githubusercontent.com/Professional-Cipher-Apps/Android-Apps-Playstore/main/pubg-sticker-app-logo.jpg",
-          "app_rating": 4
-        }
-      ],
-      "advertisement": {
-        "ad_image": "https://raw.githubusercontent.com/Professional-Cipher-Apps/Android-Apps-Playstore/main/pubg-sticker-app-logo.jpg",
-        "ad_link": "https://www.professionalcipher.com/"
-      }
-    },
     {
       "name": "Gulati Stickers",
       "more_apps": [
         {
-          "app_name": "PubG Stickers",
+          "app_name": "Stickers App",
           "app_desc": "Download WA Stickers for Free",
-          "app_link": "https://play.google.com/store/apps/details?id=com.professionalcipher.stickers",
-          "app_image": "https://raw.githubusercontent.com/Professional-Cipher-Apps/Android-Apps-Playstore/main/pubg-sticker-app-logo.jpg",
-          "app_rating": 4
-        },
-        {
-          "app_name": "PubG Stickers",
-          "app_desc": "Download WA Stickers for Free",
-          "app_link": "https://play.google.com/store/apps/details?id=com.professionalcipher.stickers",
-          "app_image": "https://raw.githubusercontent.com/Professional-Cipher-Apps/Android-Apps-Playstore/main/pubg-sticker-app-logo.jpg",
+          "app_link": "https://play.google.com/store/apps/developer?id=Professional+Cipher",
+          "app_image": "https://www.redwolf.in/image/catalog/stickers/rick-and-morty-glitch-sticker.jpg",
           "app_rating": 4
         }
       ],
